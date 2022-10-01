@@ -21,6 +21,11 @@ body{
     font-weight: 700;
     font-family: 'Be Vietnam Pro', sans-serif;
 }
+.sub-heading{
+    font-size:2rem;
+    font-weight: 400;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
 .lead{
     font-weight: 400;
     font-family: 'Be Vietnam Pro', sans-serif;
@@ -79,10 +84,14 @@ body{
     background-color: #000;
     font-family: 'Be Vietnam Pro', sans-serif;
 }
-
+.section-2 .container{
+    background-color: #10172a;
+    border-radius: 24px;
+    color:#ffffff;
+}
 
 /* footer */
-footer {
+footer{
     background-color: #10172a;
   }
   footer .fa-brands{
