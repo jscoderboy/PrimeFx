@@ -11,7 +11,7 @@ body{
 /* basic styling */
 .primary-heading{
     color:#fff;
-    font-size: 3.5rem;
+    font-size: 4.5rem;
     letter-spacing: .1rem;
     font-weight: 900;
     font-family: 'Be Vietnam Pro', sans-serif;
@@ -51,6 +51,12 @@ body{
 }
 .navbar .nav-link:hover{
     color:#2962ff;
+}
+.navbar .active{
+    color: #2962ff;
+}
+.navbar .active:hover{
+    color:#ffffff;
 }
 .btn{
     background-color: #2962ff;
