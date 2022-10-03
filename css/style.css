@@ -90,6 +90,14 @@ body{
     color:#ffffff;
 }
 
+/* #-services pages */
+.card span{
+    font-size:1.8rem;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-weight: 900;
+    opacity: 0.7;
+}
+
 /* footer */
 footer{
     background-color: #10172a;
