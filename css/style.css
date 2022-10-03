@@ -19,6 +19,7 @@ body{
 .secondary-heading{
     font-size:2.8rem;
     font-weight: 700;
+    text-transform: uppercase;
     font-family: 'Be Vietnam Pro', sans-serif;
 }
 .sub-heading{
@@ -101,6 +102,7 @@ body{
     font-size:1.8rem;
     font-family: 'Be Vietnam Pro', sans-serif;
     font-weight: 900;
+    color: #2962ff;
     opacity: 0.7;
 }
 
