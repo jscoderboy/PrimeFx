@@ -105,6 +105,11 @@ body{
     /* color: #2962ff; */
     opacity: 0.7;
 }
+/* #company page */
+.company-img{
+    width:100%;
+    max-height: 700px;
+}
 
 /* footer */
 footer{
@@ -134,5 +139,11 @@ footer{
   @media(min-width:768px){
     .news-input{
         width:50%;
+    }
+  }
+
+  @media(max-width:600px){
+    .primary-heading{
+        font-size:2.8rem;
     }
   }
